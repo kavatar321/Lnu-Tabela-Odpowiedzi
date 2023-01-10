@@ -1,0 +1,1 @@
+print("Każde dziecko otrzyma", 133 // 16, "parówek")
